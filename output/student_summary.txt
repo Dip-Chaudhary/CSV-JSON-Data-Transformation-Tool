@@ -1,0 +1,16 @@
+
+STUDENT DATA SUMMARY REPORT
+---------------------------
+
+Total Students: 20
+Total Marks: 1707
+Average Marks: 85.35
+Minimum Marks: 73
+Maximum Marks: 95
+
+TOPPER DETAILS
+--------------
+Name: Riya
+City: Pune
+Marks: 95
+Grade: A
