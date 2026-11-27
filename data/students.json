@@ -1,0 +1,123 @@
+
+[
+    {
+        "Name": "Amit",
+        "Age": 23,
+        "City": "Baroda",
+        "Marks": 78
+    },
+    {
+        "Name": "Priya",
+        "Age": 24,
+        "City": "Surat",
+        "Marks": 92
+    },
+    {
+        "Name": "Neha",
+        "Age": 22,
+        "City": "Rajkot",
+        "Marks": 88
+    },
+    {
+        "Name": "Karan",
+        "Age": 25,
+        "City": "Ahmedabad",
+        "Marks": 85
+    },
+    {
+        "Name": "Rahul",
+        "Age": 21,
+        "City": "Mumbai",
+        "Marks": 76
+    },
+    {
+        "Name": "Pooja",
+        "Age": 23,
+        "City": "Vadodara",
+        "Marks": 89
+    },
+    {
+        "Name": "Anjali",
+        "Age": 22,
+        "City": "Jaipur",
+        "Marks": 91
+    },
+    {
+        "Name": "Mehul",
+        "Age": 24,
+        "City": "Surat",
+        "Marks": 82
+    },
+    {
+        "Name": "Riya",
+        "Age": 20,
+        "City": "Pune",
+        "Marks": 95
+    },
+    {
+        "Name": "Jay",
+        "Age": 26,
+        "City": "Rajkot",
+        "Marks": 73
+    },
+    {
+        "Name": "Nisha",
+        "Age": 21,
+        "City": "Delhi",
+        "Marks": 87
+    },
+    {
+        "Name": "Harsh",
+        "Age": 23,
+        "City": "Ahmedabad",
+        "Marks": 80
+    },
+    {
+        "Name": "Komal",
+        "Age": 25,
+        "City": "Mumbai",
+        "Marks": 90
+    },
+    {
+        "Name": "Deep",
+        "Age": 22,
+        "City": "Surat",
+        "Marks": 84
+    },
+    {
+        "Name": "Sneha",
+        "Age": 24,
+        "City": "Jaipur",
+        "Marks": 93
+    },
+    {
+        "Name": "Akash",
+        "Age": 20,
+        "City": "Pune",
+        "Marks": 79
+    },
+    {
+        "Name": "Dhruv",
+        "Age": 26,
+        "City": "Baroda",
+        "Marks": 86
+    },
+    {
+        "Name": "Mansi",
+        "Age": 21,
+        "City": "Rajkot",
+        "Marks": 94
+    },
+    {
+        "Name": "Yash",
+        "Age": 23,
+        "City": "Delhi",
+        "Marks": 77
+    },
+    {
+        "Name": "Krisha",
+        "Age": 22,
+        "City": "Ahmedabad",
+        "Marks": 88
+    }
+]
